@@ -1,19 +1,19 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5513591.gif" width="654" height="163" alt="Lynx Userbot" /></a>
 <p align="center"> 🚀 𝗪𝗵𝗶𝗰𝗵 𝗶𝘀 𝗧𝗲𝗹𝗲𝘁𝗵𝗼𝗻 𝗕𝗮𝘀𝗲𝗱 🚀</p>
 <p align="center">
-  <a href="https://github.com/KENZO-404/Lynx-Userbot/fork"><img src="https://img.shields.io/github/forks/KENZO-404/Lynx-Userbot?label=Fork&style=social"></a>
+  <a href="https://github.com/Daffansaa/Lynx-Userbot/fork"><img src="https://img.shields.io/github/forks/Daffansaa4/Lynx-Userbot?label=Fork&style=social"></a>
   </p>
 <p align="center">
-  <a href="https://github.com/KENZO-404/Lynx-Userbot"><img src="https://img.shields.io/github/stars/KENZO-404/Lynx-Userbot?style=social"></a>
+  <a href="https://github.com/Daffansaa/Lynx-Userbot"><img src="https://img.shields.io/github/stars/Daffansaa/Lynx-Userbot?style=social"></a>
   </p>
 
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/kenzo-404/lynx-userbot"><img src="https://www.codefactor.io/repository/github/kenzo-404/lynx-userbot/badge?style=for-the-badge" alt="CodeFactor" /></a>
+<a href="https://www.codefactor.io/repository/github/Daffansaa/lynx-userbot"><img src="https://www.codefactor.io/repository/github/Daffansaa/lynx-userbot/badge?style=for-the-badge" alt="CodeFactor" /></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/KENZO-404/Lynx-Userbot/commits/Lynx-Userbot"><img src="https://img.shields.io/github/last-commit/KENZO-404/Lynx-Userbot?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
-<a href="https://github.com/KENZO-404/Lynx-Userbot/actions/workflows/python-app.yml"><img src="https://img.shields.io/github/workflow/status/KENZO-404/Lynx-Userbot/FailChecker/Lynx-Userbot?style=for-the-badge&logo=github-actions&logoColor=aqua" alt="CI" /></a>
+<a href="https://github.com/Daffansaa/Lynx-Userbot/commits/Lynx-Userbot"><img src="https://img.shields.io/github/last-commit/Daffansaa/Lynx-Userbot?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
+<a href="https://github.com/Daffansaa/Daffansaa/actions/workflows/python-app.yml"><img src="https://img.shields.io/github/workflow/status/Daffansaa/Lynx-Userbot/FailChecker/Lynx-Userbot?style=for-the-badge&logo=github-actions&logoColor=aqua" alt="CI" /></a>
 </p>
 <p align="center">
 <a href="https://pypi.org/project/Telethon/"><img src="https://img.shields.io/pypi/v/telethon?color=important&label=telethon&logo=python&logoColor=brightgreen&style=for-the-badge" /></a>
@@ -25,20 +25,20 @@
 </p>
 
 <p align="center">
-<a href = "https://heroku.com/deploy?template=https://github.com/KENZO-404/Lynx-Userbot/tree/Lynx-Userbot"><img src="https://telegra.ph/file/f3c656862a017f945c0bc.png" alt="Press to Takeoff" width="490px"></a>
+<a href = "https://heroku.com/deploy?template=https://github.com/Daffansaa/Lynx-Userbot/tree/Lynx-Userbot"><img src="https://telegra.ph/file/f3c656862a017f945c0bc.png" alt="Press to Takeoff" width="490px"></a>
 </p>
 <p align="center">
 <a href="https://github.com/KENZO-404/Lynx-Userbot/blob/Lynx-Userbot/LICENSE"><img src="https://img.shields.io/badge/LICENSE_UNDER-Raphielscape_Public_License_v1.d-yellow?style=for-the-badge&logo=github&logoColor=yellow" alt="generate_api"></a>
 </p>
 
-[![GitHub issues](https://img.shields.io/github/issues/KENZO-404/Lynx-Userbot?&style=plastic&logo=github)](https://github.com/KENZO-404/Lynx-Userbot/issues)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/KENZO-404/Lynx-Userbot?&style=plastic&logo=github)](https://github.com/KENZO-404/Lynx-Userbot/graphs/commit-activity)
-[![GitHub contributors](https://img.shields.io/github/contributors/KENZO-404/Lynx-Userbot?&style=plastic&logo=github)](https://GitHub.com/KENZO-404/Lynx-Userbot/graphs/contributors/)
-[![PR Open](https://img.shields.io/github/issues-pr/KENZO-404/Lynx-Userbot?&style=plastic&logo=github)](https://github.com/KENZO-404/Lynx-Userbot/pulls)
-[![PR Closed](https://img.shields.io/github/issues-pr-closed/KENZO-404/Lynx-Userbot?&style=plastic&logo=github)](https://github.com/KENZO-404/Lynx-Userbot/pulls?q=is:closed)
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/pre-commit/pre-commit/master.svg)](https://results.pre-commit.ci/latest/github/KENZO-404/Lynx-Userbot/Lynx-Userbot)
+[![GitHub issues](https://img.shields.io/github/issues/Daffansaa/Lynx-Userbot?&style=plastic&logo=github)](https://github.com/Daffansaa/Lynx-Userbot/issues)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Daffansaa/Lynx-Userbot?&style=plastic&logo=github)](https://github.com/Daffansaa/Lynx-Userbot/graphs/commit-activity)
+[![GitHub contributors](https://img.shields.io/github/contributors/Daffansaa/Lynx-Userbot?&style=plastic&logo=github)](https://GitHub.com/KENZO-404/Lynx-Userbot/graphs/contributors/)
+[![PR Open](https://img.shields.io/github/issues-pr/Daffansaa/Lynx-Userbot?&style=plastic&logo=github)](https://github.com/Daffansaa/Lynx-Userbot/pulls)
+[![PR Closed](https://img.shields.io/github/issues-pr-closed/Daffansaa/Lynx-Userbot?&style=plastic&logo=github)](https://github.com/Daffansaa/Lynx-Userbot/pulls?q=is:closed)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/pre-commit/pre-commit/master.svg)](https://results.pre-commit.ci/latest/github/Daffansaa/Lynx-Userbot/Lynx-Userbot)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=yellow)](https://github.com/KENZO-404/Lynx-Userbot)
-[![Build Status](https://github.com/KENZO-404/Lynx-Userbot/workflows/pre-commit/badge.svg)](https://github.com/KENZO-404/Lynx-Userbot/actions)
+[![Build Status](https://github.com/Daffansaa/Lynx-Userbot/workflows/pre-commit/badge.svg)](https://github.com/KENZO-404/Lynx-Userbot/actions)
 <p align="center">
 </p>
 
