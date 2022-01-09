@@ -1,9 +1,9 @@
 # Docker Tag Images, Using Python Slim Buster.
-FROM kenzo404/lynxuser:Buster
+FROM daffansaa/docks:buster
 # ==========================================
 #              Lynx - Userbot
 # ==========================================
-RUN git clone -b Lynx-Userbot https://github.com/KENZO-404/Lynx-Userbot /home/Lynx-Userbot \
+RUN git clone -b Lynx-Userbot https://github.com/Daffansaa/Lynx-Userbot /home/Lynx-Userbot \
     && chmod 777 /home/Lynx-Userbot \
     && mkdir /home/Lynx-Userbot/bin/
 
