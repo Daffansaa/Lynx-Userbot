@@ -9,8 +9,8 @@
     "modular",
     "python"
   ],
-  "repository": "https://github.com/KENZO-404/Lynx-Userbot",
-  "telegram": "https://t.me/SyndicateTwenty4",
+  "repository": "https://github.com/Daffansaa/Lynx-Userbot",
+  "telegram": "https://t.me/Daffansaa",
   "stack": "container",
   "env": {
     "API_KEY": {
